@@ -44,16 +44,6 @@ O objetivo é consolidar os conceitos estudados, registrar insights técnicos e 
 - **Escalabilidade:** Cada etapa pode escalar independentemente.  
 - **Observabilidade:** Dashboard gráfico ajuda a identificar falhas rapidamente.  
 
----
-
-## 📷 Evidências  
-
-Adicione aqui as imagens da sua prática (prints do workflow, configurações, execuções, etc.):  
-
-![Exemplo Workflow](./images/stepfunction-exemplo.png)  
-
----
-
 ## 📚 Referências  
 
 - [📘 Documentação AWS Step Functions](https://docs.aws.amazon.com/step-functions/)  
